@@ -1,0 +1,7 @@
+*.o
+*.ko
+export_syms
+*_if.h
+opt_*.h
+lirc/
+itecir/
